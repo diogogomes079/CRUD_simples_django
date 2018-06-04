@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.idea/
+.wttd/
+.venv/
+venv/
+*.sqlite3
+*pyc
+__pycache__
+*.zip
+staticfiles
+.ipynb_checkpoints/
+*ipynb
+bancos.txt
